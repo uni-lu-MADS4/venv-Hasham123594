@@ -3,6 +3,7 @@ install conda
 conda --version
 
 
-conda env create -f environment.yaml
-conda activate myenv
+conda env create -f environment.yaml  #create environment
+
+conda activate myenv  #activate environment
 
